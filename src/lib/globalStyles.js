@@ -11,6 +11,7 @@ const globalStyles = () => {
       word-wrap: break-word;
       background: ${light.bodyBg};
       color: ${light.text};
+      text-underline-position: under;
     }
     a {
       color: ${light.link};
