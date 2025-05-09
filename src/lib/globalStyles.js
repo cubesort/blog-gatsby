@@ -49,7 +49,6 @@ const globalStyles = () => {
     h2 {
       font-size: 1.35rem;
     }
-    ,
     h3 {
       font-size: 1.15rem;
     }
